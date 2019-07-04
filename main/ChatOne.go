@@ -1,5 +1,7 @@
 // ChatOne
 // First update with Template folder
+// Fail fast
+
 package main
 
 import (
