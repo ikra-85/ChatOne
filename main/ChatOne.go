@@ -1,7 +1,6 @@
 // ChatOne
-// First update with Template folder
-// Fail fast
 // new project
+// Step 2: building a file
 package main
 
 import (
